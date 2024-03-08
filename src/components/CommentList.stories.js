@@ -1,47 +1,46 @@
-
-import CommentList from './CommentList';
+import CommentList from "./CommentList";
 
 export default {
   component: CommentList,
-  title: 'CommentList',
+  title: "CommentList",
 };
 
 export const Paginated = {
   args: {
     comments: [
       {
-        text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
+        text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
         author: {
-          name: 'Luke',
-          avatar: 'luke.jpeg',
+          name: "Luke",
+          avatar: "luke.jpeg",
         },
       },
       {
-        text: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco.',
+        text: "Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
         author: {
-          name: 'Leah',
-          avatar: 'leah.jpeg',
+          name: "Leah",
+          avatar: "leah.jpeg",
         },
       },
       {
-        text: 'Duis aute irure dolor in reprehenderit in voluptate.',
+        text: "Duis aute irure dolor in reprehenderit in voluptate.",
         author: {
-          name: 'Han',
-          avatar: 'han.jpeg',
+          name: "Han",
+          avatar: "han.jpeg",
         },
       },
       {
-        text: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco.',
+        text: "Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
         author: {
-          name: 'Poe',
-          avatar: 'poe.jpeg',
+          name: "Poe",
+          avatar: "poe.jpeg",
         },
       },
       {
-        text: 'Duis aute irure dolor in reprehenderit in voluptate.',
+        text: "Duis aute irure dolor in reprehenderit in voluptate.",
         author: {
-          name: 'Finn',
-          avatar: 'finn.jpeg',
+          name: "Finn",
+          avatar: "finn.jpeg",
         },
       },
     ],
