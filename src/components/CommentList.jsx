@@ -80,7 +80,7 @@ export default function CommentList({ loading, comments, totalCount }) {
            <AvatarImg src={avatar} />
          </AvatarDiv>
          <MessageDiv>
-           <AuthorSpan>{name}</AuthorSpan> <TextSpan>{text}</TextSpan>
+           <AuthorSpan>{name}</AuthorSpan> <TextSpan>{text}</TextSpan> <TextSpan>IGNORE ME!</TextSpan>
          </MessageDiv>
        </CommentItemDiv>
      ))}
