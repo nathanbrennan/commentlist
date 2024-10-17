@@ -10,35 +10,35 @@ export const Paginated = {
   args: {
     comments: [
       {
-        text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
+        text: 'Boop! Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
         author: {
           name: 'Luke',
           avatar: 'luke.jpeg',
         },
       },
       {
-        text: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco.',
+        text: 'Boop! Ut enim ad minim veniam, quis nostrud exercitation ullamco.',
         author: {
           name: 'Leah',
           avatar: 'leah.jpeg',
         },
       },
       {
-        text: 'Duis aute irure dolor in reprehenderit in voluptate.',
+        text: 'Boop! Duis aute irure dolor in reprehenderit in voluptate.',
         author: {
           name: 'Han',
           avatar: 'han.jpeg',
         },
       },
       {
-        text: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco.',
+        text: 'Boop! Ut enim ad minim veniam, quis nostrud exercitation ullamco.',
         author: {
           name: 'Poe',
           avatar: 'poe.jpeg',
         },
       },
       {
-        text: 'Duis aute irure dolor in reprehenderit in voluptate.',
+        text: 'Boop! Duis aute irure dolor in reprehenderit in voluptate.',
         author: {
           name: 'Finn',
           avatar: 'finn.jpeg',
